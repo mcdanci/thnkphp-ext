@@ -6,11 +6,11 @@ Component List:
 
 ## Log Driver for Database
 Usage Steps:
-1. 建立 migrate.
-2. 建立 model (*optional*).
+1. New a migrate.
+2. New a model (*optional*).
 
 ---
-建立 migrate:
+New a migrate:
 ``` php
 class CreateLogTable extends \McDanci\ThinkPHP\database\migrates\CreateLogTable
 {
@@ -18,6 +18,7 @@ class CreateLogTable extends \McDanci\ThinkPHP\database\migrates\CreateLogTable
 ```
 
 ---
+New a model:
 ``` php
 namespace app\common\model;
 
