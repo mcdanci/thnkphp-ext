@@ -1,6 +1,6 @@
 {
   "name": "mcdanci/thinkphp-ext",
-  "description": "ThinkPHP extension",
+  "description": "ThinkPHP (version 5.0) standard extension.",
   "license": "Apache-2.0",
   "authors": [
     {
