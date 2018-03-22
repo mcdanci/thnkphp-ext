@@ -36,3 +36,6 @@ Log::record('String', Log::LOG);
 Log::record(['String too'], Log::LOG);
 Log::record(['String with extra', 'Extra information'], Log::LOG);
 ```
+
+## Note
+Front-end web resources for ThinkPHP is recommended to be located in the path of `./public/static` according to the root of project.
